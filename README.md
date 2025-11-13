@@ -1,4 +1,7 @@
-## Hi there 👋
+Software developer with a particular interest in embedded systems, graphics programming, and game dev.
+
+In the mood for a challenge? Try beating the AI in the [2D/3D Pong game][play] I made—it might be tougher than you expect! 😊 😉
+
 
 <!--
 **Tomer-Eliahu/Tomer-Eliahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[play]: https://tomer-eliahu.github.io/Pong_2D-3D/
